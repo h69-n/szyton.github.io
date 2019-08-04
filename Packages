@@ -1,7 +1,7 @@
 Package: com.szyton.betterhud
 Name: Better HUD
 Version: 1.0
-Size: 14
+Size: 851
 Architecture: iphoneos-arm
 Description: Give volume a better HUD for iOS 12+
 Maintainer: Szyton <email@provider.com>
