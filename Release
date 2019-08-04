@@ -1,8 +1,8 @@
-Origin: (Your Name)'s Repo
-Label: (Your Name)'s Official Repo
-Suite: stable
-Version: 1.0
+Origin: Szyton's Repo
+Label: Szyton's Official Repo
+Suite: alpha
+Version: 0.1
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: (Cydia Description)
+Description: Szyton repo provides you with the best tweaks!
